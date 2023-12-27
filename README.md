@@ -1,2 +1,7 @@
 # authenticationAPI
-Supports user register, login, auth using jwt.
+Supports `user register` and `login` using `jwt`.
+
+Available APIs ->
+> login -
+
+> register -
